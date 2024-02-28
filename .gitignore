@@ -154,4 +154,5 @@ cython_debug/
 ## Large data to ignore
 SEM/Fiji.app/
 Match3/
+FP/
 
