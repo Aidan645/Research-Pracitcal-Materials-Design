@@ -152,7 +152,7 @@ cython_debug/
 #.idea/
 
 ## Large data to ignore
-SEM/Fiji.app/
+Fiji.app/
 Match3/
 FP/
 
